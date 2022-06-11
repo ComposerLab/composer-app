@@ -31,6 +31,6 @@ _더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
 
 MIT 라이센스를 준수하며 `LICENSE`에서 자세한 정보를 확인할 수 있습니다.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/ComposerLab/composer-app/blob/master/License](https://github.com/ComposerLab/composer-app/blob/master/License)
 
 [wiki]: https://github.com/ComposerLab/composer-app/wiki
