@@ -1,4 +1,4 @@
-# Composer
+# Composer App
 
 ## 설치 방법
 
