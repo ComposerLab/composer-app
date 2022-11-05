@@ -6,12 +6,14 @@ OS X & 리눅스:
 
 ```sh
 flutter pub get
+flutter run
 ```
 
 윈도우:
 
 ```sh
 flutter pub get
+flutter run
 ```
 
 ## 사용 예제
