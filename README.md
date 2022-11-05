@@ -3,7 +3,7 @@
 ## 개발 환경 설정
 
 ```
-assets/.env
+- assets/.env
 URL=${WEB_URL}
 ```
 
