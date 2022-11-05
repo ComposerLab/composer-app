@@ -48,3 +48,7 @@ app.*.map.json
 
 # fvm
 .fvm/flutter_sdk
+
+# secret
+/assets/.env
+/assets/.env.dev
